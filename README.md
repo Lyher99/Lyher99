@@ -6,7 +6,7 @@ Hi, I'm Hong Lyher from Cambodia — a software engineer and web developer with 
 
 - 📍 Phnom Penh & Kampong Speu, Cambodia  
 - 📧 lyher750@gmail.com | 🌐 [lyher99.com](http://www.lyher99.com)  
-- 📞 0968161618  
+- 📞 +855 968161618  
 
 ## 🎓 Education
 
