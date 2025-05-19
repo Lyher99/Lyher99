@@ -1,80 +1,39 @@
 # 👨‍💻 Hong Lyher - Software Engineer / Web Developer
 
-Welcome to my personal repository! I'm Hong Lyher, a passionate software engineer and web developer from Cambodia. I recently completed my Bachelor's Degree in Software Engineering at BELTEI International University.
+Hi, I'm Hong Lyher from Cambodia — a software engineer and web developer with a Bachelor's in Software Engineering from BELTEI International University.
 
-📌 **About Me**
+## 📌 Contact
 
-- 🎂 **Date of Birth**: July 31, 2003
-- 📍 **Location**: Phnom Penh & Kampong Speu, Cambodia
-- 📧 **Email**: lyher750@gmail.com
-- 🌐 **Website**: [www.lyher99.com](http://www.lyher99.com)
-- 📞 **Phone**: 0968161618
+- 📍 Phnom Penh & Kampong Speu, Cambodia  
+- 📧 lyher750@gmail.com | 🌐 [lyher99.com](http://www.lyher99.com)  
+- 📞 0968161618  
 
-🎓 **Education**
+## 🎓 Education
 
-- **BELTEI International University**  
-  Bachelor of Information Technology and Science, Major in Software Engineering  
-  🎓 Completed Year 4
+**BELTEI International University**  
+Bachelor of Software Engineering (Year 4 Completed)
 
-💼 **Work Experience**
+## 💼 Work Experience
 
-- **Web Developer at DP Cloud**  
-  📅 2024 - Present
+- **DP Cloud** – Web Developer (2024–Present)  
+- **BELTEI International University** – Web Developer (2022–2023)
 
-- **Web Developer at BELTEI International University**  
-  📅 2022 - 2023
+## 🛠 Skills
 
-🛠 **Skills**
+**Web Development**: HTML, CSS, JavaScript, PHP  
+**Frameworks**: Laravel, React, Bootstrap, jQuery  
+**Databases**: MySQL, MSSQL, Oracle  
+**Design & Tools**: Figma, Photoshop, CapCut  
+**Systems**: Web Hosting, System Analysis, MS Office  
+**Languages**: C++, C#, Java
 
-**Web Development**
+## 📂 Projects
 
-- **Frontend**: HTML, CSS, JavaScript
-- **Backend**: PHP
-- **Frameworks**: Laravel, React JS, Bootstrap 5, jQuery
+- **Web**: Personal Website, BELTEI IU Website (UX/UI), Tour Site, Online Exam, Stock System  
+- **Desktop**: Lottery Game (C#)  
+- **Creative**: Posters, Banners, Logos, Video Edits  
+- **Team**: Digital Library System (IIS), BELTEI Charity Website
 
-**Databases**
+## 📫 Let's Connect!
 
-- MySQL, MSSQL Server, Oracle
-
-**UI/UX & Design**
-
-- Figma
-- Adobe Photoshop, CapCut
-
-**Systems & Tools**
-
-- Web Hosting
-- System Analysis
-- Microsoft Office (Word, Excel, PowerPoint)
-
-**Programming Languages**
-
-- C++, C#, Java
-
-📂 **Projects**
-
-💻 **Web Projects**
-
-- My Personal Website
-- BELTEI IU Website (UX/UI)
-- Tour Website
-- Online Exam System
-- Stock Management System (Laravel)
-
-🎮 **Desktop Projects**
-
-- Lottery Game (C# WinForms)
-
-🎨 **Creative Projects**
-
-- Graphic Design: Posters, Banners, Logos
-- Video Editing: CapCut, Photoshop
-
-🧑‍🤝‍🧑 **Team Projects**
-
-- Digital Library System – Setup on IIS
-- BELTEI Charity Website
-
-📫 **Get in Touch**
-
-If you're interested in working with me or have any questions, feel free to reach out via email or visit my website!
+Interested in collaborating or hiring? Feel free to reach out or explore my website!
